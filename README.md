@@ -16,3 +16,5 @@ Once the bot is added to your Slack channel, type one of these commands into the
 Features:
 Fast Responses - Get match information in seconds without leaving your chat window.
 Always Available - Hosted online 24/7 so it's ready whenever you or your teammates need a quick football update.
+
+<img width="1273" height="402" alt="image" src="https://github.com/user-attachments/assets/5c48a2df-4e9d-47e3-b019-fc0d91dfefd1" />
